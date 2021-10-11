@@ -1,28 +1,16 @@
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    /* background-color: #333; */
-  }
-  
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-  }
-  
-  li a:hover:not(.active) {
-    background-color: #111;
-    color: white;
-  }
-  
-  .active {
-    background-color: #04AA6D;
-  }
+* {
+
+}
+
+.project-logo {
+  width: 250px;
+}
+
+.content {
+  background-color: gra;
+}
+
+body {
+  background: rgb(201,9,133);
+  background: linear-gradient(95deg, rgba(201,9,133,1) 0%, rgba(170,6,161,1) 30%, rgba(18,157,171,1) 100%);
+}
